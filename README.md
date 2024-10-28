@@ -25,7 +25,7 @@ And then ->
 pip install python-dotenv
 ```
 ### Configure your API
-Go to <a href="together.ai" target="_blank">together.ai</a> and create profile to get your API key
+Go to <a href="www.together.ai" target="_blank">together.ai</a> and create profile to get your API key
 create a `.env` file inside your folder and write the following content.<br>
 `API_KEY = " your key "`. In the root folder only.
 # Usage
