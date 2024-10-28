@@ -16,6 +16,9 @@ You have to initialize venv first.
 ```sh
 python -m venv venv
 ```
+```sh
+source venv/bin/activate
+```
 Then -> 
 ```sh
 pip install Together
