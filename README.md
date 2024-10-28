@@ -30,3 +30,9 @@ create a `.env` file inside your folder and write the following content.<br>
 `API_KEY = " your key "`. In the root folder only.
 # Usage
 Run the python file into your terminal, here it works as your customizable AI and u can add your own features as per your requirement
+
+# Demo Vedio 
+
+https://github.com/user-attachments/assets/05482b89-461b-4a59-b9dc-04463b7ad561
+
+
